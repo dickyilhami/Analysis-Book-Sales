@@ -8,4 +8,6 @@ This analysis process is intended to display an analysis of book sales per area,
 
 In this project, I as an analyst use several tools for the analysis process, namely by using python for profiling and cleansing data and taking features related to what is being analyzed. for bi tools used is google data studio. here I show the capture dashboard that has been made.
 
+![Dashboard](https://user-images.githubusercontent.com/52574448/157370811-05b2bf94-3ddc-44db-abfe-1ec6ccc60753.png)
+
 you can check my dashboard in : https://datastudio.google.com/reporting/040f70f3-591a-451e-b809-3493423979ac
